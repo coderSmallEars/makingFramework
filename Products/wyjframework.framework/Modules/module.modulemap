@@ -1,0 +1,6 @@
+framework module wyjframework {
+  umbrella header "wyjframework.h"
+
+  export *
+  module * { export * }
+}
